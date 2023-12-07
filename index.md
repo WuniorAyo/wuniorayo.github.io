@@ -7,7 +7,7 @@ done here at Cal State Fullerton and I major in Computer Science
 
 My GitHub page is http://github.com/wuniorayo
 
-###CSPC120
+##CSPC120
 
 * Lab 6
 
